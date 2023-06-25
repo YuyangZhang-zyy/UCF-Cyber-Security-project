@@ -1,5 +1,5 @@
 # UCF-Cyber-Security-project
-A course project that perform some basic cyber security skills
+A course project created by Code Block in C that perform some basic cyber security skills
 
 pa01 - Encrypting a plaintext file using the Vigenere cipher
 
